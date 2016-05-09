@@ -1,4 +1,4 @@
-# avito-duplicate-ads-detection
+[Kaggle Avito Duplicate Ads Detection](https://www.kaggle.com/c/avito-duplicate-ads-detection)
 
 Load csv into postgresql table:  
 ```
